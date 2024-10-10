@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<p align="left">-Data Analyst;<br>-Recently Graduated in Management Processes;<br>-Migrating ta Data and Technology Area.</p>
+<p align="left">-Certified Data Analyst;<br>-Recently Graduated in Management Processes;<br>-Migrating to Data and Technology Area.</p>
 
 ###
 
