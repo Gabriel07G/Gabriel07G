@@ -28,9 +28,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Gabriel07G/Gabriel07G/output/snake.svg" alt="Snake animation" />
-
-###
 <!--
 **Gabriel07G/Gabriel07G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
