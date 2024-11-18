@@ -1,5 +1,7 @@
 <h2 align="left">Hi 👋! My name is Gabriel Oliveira and I'm a Data Scientist!</h2>
 
+ _I'm 30 years old and i'm transitioning from my career to the Data area!_
+
 - 🔭 I’m currently working Telecomunications Technician;
 - 🌱 I’m currently learning Python, SQL, Machine Learning;
 - 💬 Ask me about Python, SQL, Machine Learning;
